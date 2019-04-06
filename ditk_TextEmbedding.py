@@ -1,3 +1,4 @@
+
 class ditk_TextEmbedding():
 
     # Any shared data strcutures or methods should be defined as part of the parent class.
